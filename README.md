@@ -1,5 +1,5 @@
 ---
-id: 
+id: 45552
 course_id: 6677
 repo: java-more-inheritance-quiz
 ---
